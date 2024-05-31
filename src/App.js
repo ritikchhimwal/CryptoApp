@@ -1,6 +1,6 @@
 import { createTheme, ThemeProvider } from "@mui/material";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-import "./App.css";
+import "./App.css;
 import Coin from "./pages/Coin";
 import Compare from "./pages/Compare";
 import Dashboard from "./pages/Dashboard";
